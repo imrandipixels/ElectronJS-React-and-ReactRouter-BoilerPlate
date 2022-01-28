@@ -1,0 +1,21 @@
+.loginContainer{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+.loginsubContainer{
+    width: 30%;
+    background-color: white;
+    padding: 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.loginsubContainer input{
+    width: 100%;
+}
